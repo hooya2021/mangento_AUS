@@ -363,6 +363,8 @@ view: sales_order {
     timeframes: [
       raw,
       time,
+      hour_of_day,
+      fiscal_month_num,
       date,
       week,
       month,
